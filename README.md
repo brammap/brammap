@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @brammap - Graduate student in Management Information System
 - 👀 I’m interested in data analytics. I tell interesting data stories via Charts and Data Models.
-- 🌱 I’m currently doing Google Data Analytics Certification
+- 🌱 I’m a Google Certified Data Analyst
 - 💞️ Extracting, cleaning and analysing data is my favorite pass time
 - 📫 You can reach me at brammasakthip@gmail.com
 
